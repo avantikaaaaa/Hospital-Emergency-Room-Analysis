@@ -11,10 +11,10 @@ Data Source: [Hospital ER Data](https://github.com/avantikaaaaa/Hospital-Emergen
 
 **Data Visualizations:** [Power BI](https://github.com/avantikaaaaa/Hospital-Emergency-Room-Analysis/blob/main/Hospital_emergency.pbix)
 
-# Monthly View:
+## Monthly View:
 ![Image](https://github.com/user-attachments/assets/58046d65-4318-4cdd-95d1-b4244902bc07)
 
-# Consolidated View
+# Consolidated View:
 ![Image](https://github.com/user-attachments/assets/f8d2bcf9-224a-441e-b7c9-6f9db7bd51d3)
 
 # Patient Details:
