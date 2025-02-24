@@ -14,16 +14,16 @@ Data Source: [Hospital ER Data](https://github.com/avantikaaaaa/Hospital-Emergen
 ## Monthly View:
 ![Image](https://github.com/user-attachments/assets/58046d65-4318-4cdd-95d1-b4244902bc07)
 
-# Consolidated View:
+## Consolidated View:
 ![Image](https://github.com/user-attachments/assets/f8d2bcf9-224a-441e-b7c9-6f9db7bd51d3)
 
-# Patient Details:
+## Patient Details:
 ![Image](https://github.com/user-attachments/assets/d30106eb-d1ec-4bee-b3c7-af8d6a9c4d86)
 
-# Data Insights:
+## Data Insights:
 ![Image](https://github.com/user-attachments/assets/28d1ebdd-c867-4ef8-9aed-a4ee8cdbba86)
 
-# Recommendations:
+## Recommendations:
 ![Image](https://github.com/user-attachments/assets/3016372b-c921-46ea-8a84-acbb5cbdbd45)
 
 
