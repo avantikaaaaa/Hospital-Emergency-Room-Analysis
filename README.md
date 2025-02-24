@@ -14,7 +14,7 @@ Data Source: [Hospital ER Data](https://github.com/avantikaaaaa/Hospital-Emergen
 1. [Data Preparation](https://github.com/avantikaaaaa/Cyclistic-Bike-Sharing-User-Analysis/blob/main/Data_preparation.sql)
 2. [Data Analysis](https://github.com/avantikaaaaa/Cyclistic-Bike-Sharing-User-Analysis/blob/main/Data_analysis.sql)
 
-**Data Visualizations:** [Tableau](https://public.tableau.com/app/profile/avantika.garg6650/viz/Book1_17369612515860/Dashboard4)
+**Data Visualizations:** [Power BI](https://public.tableau.com/app/profile/avantika.garg6650/viz/Book1_17369612515860/Dashboard4)
 
 ![Image](https://github.com/user-attachments/assets/9d3675e5-8afb-42df-b2e8-c3079a741982)
 
